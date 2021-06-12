@@ -1,1 +1,1 @@
-# Machin-learning-based-speech-production-using-face-recognition
+# Machine-learning-based-speech-production-using-face-recognition
